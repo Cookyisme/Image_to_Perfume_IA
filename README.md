@@ -7,3 +7,5 @@ Le premier script, Prédiction_réduite.py, réalise une association rapide en c
 Le second script, Prédiction_longue.py, suit un processus similaire mais adopte une méthodologie plus approfondie. Il compare les vecteurs de l'image non seulement aux parfums répertoriés, mais également aux notes de parfum vectorisées issues de la base "perfume_table". Cette approche affine considérablement l'interprétation des préférences de l'utilisateur, bien que cela entraîne un temps d'exécution plus conséquent.
 
 Des améliorations futures sont envisagées, notamment une optimisation des performances pour accélérer les calculs, l'intégration de nouvelles données pour enrichir la précision des recommandations, ainsi que le développement d'une interface utilisateur intuitive. De plus, l'utilisation de modèles d'intelligence artificielle plus performants que ResNet50 pourrait être explorée.
+
+Il est à noté que ce programme a été réalise sous l'environnement Google Collab, pour éviter tout problème de compatibilité, il pourrait être intéressant de l'exécuter sous cette même plateforme.
