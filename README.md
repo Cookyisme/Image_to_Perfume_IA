@@ -9,3 +9,5 @@ Le second script, Prédiction_longue.py, suit un processus similaire mais adopte
 Des améliorations futures sont envisagées, notamment une optimisation des performances pour accélérer les calculs, l'intégration de nouvelles données pour enrichir la précision des recommandations, ainsi que le développement d'une interface utilisateur intuitive. De plus, l'utilisation de modèles d'intelligence artificielle plus performants que ResNet50 pourrait être explorée.
 
 Il est à noté que ce programme a été réalise sous l'environnement Google Collab, pour éviter tout problème de compatibilité, il pourrait être intéressant de l'exécuter sous cette même plateforme.
+
+Ici le lien de la page Kaggle du créateur du fichier data "perfume_table.csv" et le lien direct pour le télécharger : https://www.kaggle.com/datasets/joehusseinmama/fragrantica-data
